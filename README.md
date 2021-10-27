@@ -1,6 +1,4 @@
-# The-Sparks-Foundation-Tasks
-This repository contains the tasks that I completed while working as an intern for The Sparks Foundation.
-
- - Internship Category - Data Science and Business Analytics
- - Internship Duration - 1 Month ( September-2021 )
- - Internship Type - Work from Home
+# Exploratory Data Analysis - IPL
+ - Analyzed the Indian Premier League dataset and gathered various insights.
+ - Figured out the most successful teams, players and factors affecting win or loss of a team.
+ - Suggested teams and players a company should endorse for its products.
